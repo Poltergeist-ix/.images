@@ -1,2 +1,3 @@
 # .images
- public images for web
+
+A collection of images for use in web content, such as Steam descriptions.
