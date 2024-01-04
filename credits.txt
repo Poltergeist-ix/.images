@@ -1,3 +1,5 @@
-- ko-fi banners by Ko-fi from giphy, resized and scaled.
+most images have been slightly edited to better fit the place of use.
+
+- ko-fi banners by Ko-fi from giphy.
 - PZWorkshopCommBanners by Chuck.
 - tis-mod-permissions by MashPotato, The Indie Stone.
